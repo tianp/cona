@@ -8,7 +8,7 @@ This module is a wrapper of some nodejs libraries that I mostly using across pro
 
 ## How to install
 
-Add ```"components": "https://github.com/tianpermana/components/archive/v0.1.0.tar.gz"``` in your ```package.json``` dependencies
+Add ```"components": "https://github.com/tianpermana/components/archive/v0.2.0.tar.gz"``` in your ```package.json``` dependencies
 
 Then run:
 
