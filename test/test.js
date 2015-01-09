@@ -19,6 +19,20 @@ describe( "Components", function() {
 
     })
 
+    it( "Should generate date object with miliseconds", function( done ) {
+
+      var date = Components.generateDate({ miliseconds: true })
+
+      should.exist( date )
+
+      date.should.be.an( 'object' )
+
+      should.exist( date.miliseconds )
+
+      done()
+
+    })
+
   })
 
   describe( "generateId", function() {
