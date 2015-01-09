@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Reusable libraries wrapper",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "mocha test"
   },
