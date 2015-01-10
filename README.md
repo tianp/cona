@@ -1,6 +1,6 @@
 # components
 
-[![Travis](https://img.shields.io/travis/tianpermana/components.svg?style=flat-square)](https://travis-ci.org/tianpermana/components) [![GitHub release](https://img.shields.io/github/release/tianpermana/components.svg?style=flat-square)](https://github.com/tianpermana/components/releases) [![David](https://img.shields.io/david/tianpermana/components.svg?style=flat-square)]()
+[![Travis](https://img.shields.io/travis/tianp/cona.svg?style=flat-square)](https://travis-ci.org/tianp/cona) [![GitHub release](https://img.shields.io/github/release/tianp/cona.svg?style=flat-square)](https://github.com/tianp/cona/releases) [![David](https://img.shields.io/david/tianp/cona.svg?style=flat-square)]()
 
 Reusable libraries wrapper
 
