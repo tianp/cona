@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://tianpermana@github.com/tianpermana/components.git"
+    "url": "https://tianp@github.com/tianp/cona.git"
   },
   "author": "Tian Permana <hello@tianpermana.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tianpermana/components/issues"
+    "url": "https://github.com/tianp/cona/issues"
   },
-  "homepage": "https://github.com/tianpermana/components",
+  "homepage": "https://github.com/tianp/cona",
   "dependencies": {
     "amanda": "^0.5.1",
     "moment": "^2.9.0",
