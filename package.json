@@ -1,7 +1,7 @@
 {
   "name": "cona",
-  "version": "0.3.0",
-  "description": "Reusable libraries wrapper",
+  "version": "0.3.1",
+  "description": "Utility Belt for Node.js modules",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
