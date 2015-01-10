@@ -1,18 +1,5 @@
 (function() {
 
-  /**
-    * 8villages Messages - /src/components/validator.js
-    *
-    * Copyright (c) 2014 - 2015 8villages, Inc - All Rights Reserved
-    *
-    * Unauthorized copying of this file, via any medium is strictly prohibited
-    * Proprietary and confidential
-    *
-    * Written by Tian Permana <t.permana@8villages.com>, December 2014
-    *
-    */
-
-
   var amanda = require('amanda'),
     validator = require('validator'),
     _ = require('underscore'),
