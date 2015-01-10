@@ -12,10 +12,10 @@
 
       case 'md5':
 
-        return crypto.createHash('md5').update( password ).digest('hex')
+        return crypto.createHash('md5').update( string ).digest('hex')
 
       break
-    }    
+    }
 
   }
 
